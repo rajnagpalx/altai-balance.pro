@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/order"
+to = "https://42bea49ylwjpcy6yufp9ig-nfo.hop.clickbank.net"
+status = 301
+force = true
